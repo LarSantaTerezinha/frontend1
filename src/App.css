@@ -30,9 +30,3 @@ body, html {
     z-index: 1021;
     color: white;
 }
-
-/* Adicione estas regras CSS ao seu arquivo de estilos */
-.NavLink-active {
-  color: #fff; /* Adapte o estilo conforme necessário */
-  background-color: #007bff; /* Adapte o estilo conforme necessário */
-}

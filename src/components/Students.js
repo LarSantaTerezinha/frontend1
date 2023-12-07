@@ -25,11 +25,11 @@ const Students = () => {
         <thead>
             <tr>
             <th>ID</th>
-            <th>First Name</th>
-            <th>Last Name</th>
-            <th>Registration No</th>
+            <th>Primeiro Nome</th>
+            <th>Último Nome</th>
+            <th>No. Registro</th>
             <th>Email</th>
-            <th>Course</th>
+            <th>Curso</th>
             </tr>
         </thead>
         <tbody>
